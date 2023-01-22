@@ -1,0 +1,9 @@
+/* Built-in elements */
+
+body {
+    background: url('Header_Image3.jpg') no-repeat fixed;
+    background-size: cover;
+    margin: 12px;
+}
+
+/* Customized Classes */
